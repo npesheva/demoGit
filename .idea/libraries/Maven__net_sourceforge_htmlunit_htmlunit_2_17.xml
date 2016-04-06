@@ -7,6 +7,8 @@
       <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.17/htmlunit-2.17-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
+
+
       <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.17/htmlunit-2.17-sources.jar!/" />
     </SOURCES>
   </library>
